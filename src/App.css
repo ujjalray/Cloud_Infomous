@@ -1,0 +1,68 @@
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.temppp_body
+{
+     
+      background-color:lightsteelblue;
+      width: 350px;
+      height: 350px;
+      margin-left: 500px;
+      margin-top: 150px;
+      border-radius: 40px;
+      font-family: "jost" ,sans-serif;
+}
+.temppp_input
+{
+     border-radius:20px;
+     width: 200px;
+     height: 40px;
+     margin-left: 70px;
+     margin-top: 30px;
+     font-family: "jost" ,sans-serif;
+     overflow: hidden;
+     
+}
+.tempypp_secend_body
+{
+     margin-top: 40px;
+     margin-left: 60px;
+}
+.location
+{
+     margin-left: 30px;
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.dgerr
+{
+     margin-left: 40px;
+
+}
+.dgerr_min
+{
+     margin-left: 10px;
+
+}
+#hello
+{
+  
+    background-color: mediumblue;
+    height: 100vh;
+    width: 100vh;
+}
+.max
+{
+
+    margin-left:0px;
+
+}
+.data
+{
+      margin-right: 50px;
+}
